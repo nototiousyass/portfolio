@@ -13,4 +13,4 @@ Docker est une plateforme logicielle qui permet de créer, déployer et gérer d
 
 L'une des principales utilités de Docker est de simplifier le développement et le déploiement des applications. En encapsulant les applications dans des conteneurs, Docker permet aux développeurs de travailler dans des environnements reproductibles et cohérents, réduisant ainsi les problèmes de compatibilité. De plus, Docker facilite le déploiement des applications sur différentes infrastructures, que ce soit sur des serveurs locaux, dans le cloud ou dans des environnements hybrides. Cela contribue à une meilleure efficacité opérationnelle et à une accélération des cycles de développement.
 
-Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure Docker (PDF)](/public/assets/Docker.pdf)
+Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure Docker (PDF)](/assets/Docker.pdf)
