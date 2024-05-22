@@ -19,4 +19,4 @@ Le framework est basé sur le modèle MVC (Modèle-Vue-Contrôleur), une archite
 Ruby on Rails est apprécié pour sa simplicité, sa cohérence et sa vaste collection de bibliothèques (gems) qui étendent ses fonctionnalités. Il est particulièrement adapté pour le développement rapide de prototypes et d'applications web complètes, allant des startups aux grandes entreprises.
 
 <!-- Ceci est un commentaire en Markdown 
-Durant notre deuxième année nous avons du effectuer une veille sur le sujet de notre choix. Fortement intéréssés par Rails et l'engouement autour de cette technologie j'en ai fais mon sujet de veille. Vous trouverez ci-joint mon travail de veille effectué à l'aide de notion et de google alerts.  [Veille RoR (PDF)](/public/assets/VeilleROR.pdf)-->
+Durant notre deuxième année nous avons du effectuer une veille sur le sujet de notre choix. Fortement intéréssés par Rails et l'engouement autour de cette technologie j'en ai fais mon sujet de veille. Vous trouverez ci-joint mon travail de veille effectué à l'aide de notion et de google alerts.  [Veille RoR (PDF)](/assets/VeilleROR.pdf)-->

@@ -17,4 +17,4 @@ Le fichier robots.txt joue donc un rôle essentiel dans le contrôle de l'indexa
 
 En optimisant correctement le fichier robots.txt et en appliquant les meilleures pratiques de SEO, un site web peut améliorer sa pertinence aux yeux des moteurs de recherche, attirant ainsi un public plus large et pertinent.
 
-Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure référencement (PDF)](/public/assets/Referencement.pdf)
+Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure référencement (PDF)](/assets/Referencement.pdf)

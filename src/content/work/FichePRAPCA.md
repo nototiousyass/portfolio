@@ -18,4 +18,4 @@ Le PRA, quant à lui, se concentre sur la restauration des activités après un 
 
 En somme, les PCA et PRA sont des éléments clés de la gestion des risques et de la sécurité informatique. Ils permettent aux entreprises de se préparer aux imprévus, de limiter les impacts des incidents et de garantir une reprise rapide et efficace des opérations.
 
-Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure Pra Pca (PDF)](/public/assets/PraPca.pdf)
+Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure Pra Pca (PDF)](/assets/PraPca.pdf)
