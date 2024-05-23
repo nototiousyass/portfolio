@@ -6,7 +6,7 @@ img_alt: Logo docker
 description: 
   Fiche Docker
 tags:
-  - Fiche de Procédure
+  - C5
 ---
 
 Docker est une plateforme plateforme de virtualisation  applicative qui permet de créer, déployer et gérer des applications dans des conteneurs. Les conteneurs sont des environnements légers, portables et isolés qui incluent tout ce dont une application a besoin pour fonctionner, comme le code, les bibliothèques et les dépendances. Cela assure que l'application fonctionne de manière cohérente, quel que soit l'environnement où elle est déployée.

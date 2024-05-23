@@ -6,7 +6,7 @@ img_alt: Logo Ruby On Rails
 description: |
   Veille Ruby On Rails
 tags:
-  - Veille
+  - C6
 ---
 > En Travaux 🚧🚧🚧🚧 
 

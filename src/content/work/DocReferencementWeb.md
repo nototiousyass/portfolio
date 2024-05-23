@@ -6,7 +6,8 @@ img_alt: logo referencement
 description: |
   Fiche réferencement
 tags:
-  - Fiche de procédure
+  - C3
+  - C5
 ---
 
 Le référencement web, ou SEO (Search Engine Optimization), est l'ensemble des techniques visant à améliorer la visibilité et le classement d'un site web dans les résultats des moteurs de recherche comme Google. Un bon référencement permet d'attirer un trafic de qualité et d'augmenter la notoriété du site.

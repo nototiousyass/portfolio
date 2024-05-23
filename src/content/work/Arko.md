@@ -6,8 +6,11 @@ img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   Stage de deuxième année pour une entreprise basée à Barcelone 
 tags:
-  - Stage Dev
-  - Ruby On Rails
+  - C2
+  - C3 
+  - C4
+  - C5
+  
 ---
 
 J'ai effectué mon stage de deuxième année de  BTS dans le bureau d'Étude Arko basé à Barcelone. Arko intervient dans des projets humanitaires pour l’UE et l’ONU dans différents pays du monde.

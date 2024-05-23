@@ -6,7 +6,10 @@ img_alt: Logo pra pca
 description: |
   Fiche PRA PCA
 tags:
-  - Fiche de procédure
+  - C1
+  - C2
+  - C4
+  - C5
 ---
 
 
@@ -18,6 +21,6 @@ Le PRA, quant à lui, se concentre sur la restauration des activités après un 
 
 En somme, les PCA et PRA sont des éléments clés de la gestion des risques et de la sécurité informatique. Ils permettent aux entreprises de se préparer aux imprévus, de limiter les impacts des incidents et de garantir une reprise rapide et efficace des opérations.
 
-Pour accéder à la fiche de procédure et le diagramme de Gantt, cliquez sur les liens suivant
-: [Fiche de procédure Pra Pca (PDF)](/assets/PraPca.pdf)
-[Diagramme de Gantt (PDF)](/assets/DiagrammeGanttBase.pdf)
+Pour accéder aux fiches de procédures et au diagramme de Gantt, cliquez sur les liens suivant : [Fiche de procédure Pra Pca (PDF)](/assets/Mise_place_PRA_PCA.pdf)
+[Réponse à une cyber attaque à l'aide de Pra (PDF)](/assets/PraPca.pdf)
+[Diagramme de Gantt Pra (PDF)](/assets/DiagrammeGanttBase.pdf)
