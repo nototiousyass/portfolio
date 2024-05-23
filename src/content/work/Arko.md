@@ -4,19 +4,19 @@ publishDate: 2020-03-04 00:00:00
 img: /assets/Arkologo.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  Stage de deuxième année en remote dans une entreprise à Barcelone 
+  Stage de deuxième année pour une entreprise basée à Barcelone 
 tags:
   - Stage Dev
   - Ruby On Rails
 ---
 
-J'ai effectué mon stage de deuxième année de  BTS dans le bureau d'Étude Arko basé à barcelone qui travail dans le domaine de l'Humanitaire.
+J'ai effectué mon stage de deuxième année de  BTS dans le bureau d'Étude Arko basé à Barcelone. Arko intervient dans des projets humanitaires pour l’UE et l’ONU dans différents pays du monde.
 
-Durant ce stage, j'ai eu à travailler avec le framework Rails de Ruby que je n'avais pas utilisé jusque la. J'ai créer un Blog avec Rails, régler des bugs sur une application en fonction. J'ai aussi travailler avec une APi et fait la modélisation et proposition du nouveau schéma de base de donnée pour un de leurs projets.
+Pendant ce stage, j'ai pu  travailler avec le framework Rails de Ruby que je n'avais jamais utilisé. J’ai créé un blog avec Rails et j’ai debugué une application qui était  en production. J’ai utilisé une API pour requéter des données. J’ai également modélisé et proposé le nouveau schéma de la base de données pour un de leurs projets.
 
-Sur ce stage j'étais en télétravail et j'ai eu à travailler avec 2 développeur eux aussi à distance.
+Durant ce stage, les deux développeurs avec lesquels j’ai dû collaborer et moi-même, étions 100% en télétravail.
 
-Malheureusement les données que j'ai du traiter sont sensibles et je ne peux les partagés publiquements. 
+Pour des raisons de confidentialité, je ne peux malheureusement pas partager les données et informations dont j’ai eu connaissance.
 
 
 

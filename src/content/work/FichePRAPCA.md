@@ -1,5 +1,5 @@
 ---
-title: Documentation pour la mise en place de PRA et de PCA
+title: Mise en place de PRA et de PCA
 publishDate: 2019-10-02 00:00:00
 img: /assets/pra-pca-logo.png
 img_alt: Logo pra pca
@@ -18,4 +18,6 @@ Le PRA, quant à lui, se concentre sur la restauration des activités après un 
 
 En somme, les PCA et PRA sont des éléments clés de la gestion des risques et de la sécurité informatique. Ils permettent aux entreprises de se préparer aux imprévus, de limiter les impacts des incidents et de garantir une reprise rapide et efficace des opérations.
 
-Pour accéder à la fiche de procédure sur Docker, cliquez sur le lien suivant : [Fiche de procédure Pra Pca (PDF)](/assets/PraPca.pdf)
+Pour accéder à la fiche de procédure et le diagramme de Gantt, cliquez sur les liens suivant
+: [Fiche de procédure Pra Pca (PDF)](/assets/PraPca.pdf)
+[Diagramme de Gantt (PDF)](/assets/DiagrammeGanttBase.pdf)
