@@ -24,9 +24,9 @@ Pour mener à bien ma veille, j'ai utilisé plusieurs ressources fiables et me s
 
 Tout au long de cette période, j'ai suivi la newsletter Ruby Weekly, qui m'a notifié chaque changement majeur et mise à jour concernant Ruby on Rails. Cette newsletter hebdomadaire m'a permis de rester informé des nouvelles versions, des améliorations de performance, des correctifs de sécurité et des nouvelles fonctionnalités.
 
-#### Suivi des Blogs Ruby Flow et Ruby on Rails
+#### Suivi des Blogs 
 
-En plus de la newsletter, j'ai régulièrement consulté les blogs Ruby Flow et Ruby on Rails. Ces blogs sont des sources essentielles pour la communauté Ruby, fournissant des articles détaillés, des tutoriels, des annonces et des discussions sur les meilleures pratiques. Ils m'ont aidé à comprendre les implications des nouvelles versions et à explorer les différentes façons d'optimiser et d'améliorer les applications Ruby on Rails.
+En plus de la newsletter, j'ai régulièrement consulté dees blogs  comme Ruby Flow, Ruby on Rails, Crunchy Data ou Hayford. Ces blogs sont des sources essentielles pour la communauté Ruby, fournissant des articles détaillés, des tutoriels, des annonces et des discussions sur les meilleures pratiques. Ils m'ont aidé à comprendre les implications des nouvelles versions et à explorer les différentes façons d'optimiser et d'améliorer les applications Ruby on Rails.
 
 #### Formation Continue avec Codecademy
 
@@ -34,14 +34,13 @@ Pour renforcer mes compétences et me familiariser davantage avec Ruby on Rails,
 
 ##### Résumé des Informations Clés Recueillies
 
-Ruby on Rails 7.1 Release : En novembre 2023, Ruby on Rails 7.1 a été publié avec des améliorations significatives telles que des enhancements pour Turbo Frame, une intégration plus approfondie avec Hotwire et des mises à jour pour Active Storage.
+Ruby on Rails 7.1 Release : En novembre 2023, Ruby on Rails 7.1 a été publié avec des améliorations significatives telles que des enhancements pour Turbo Frame, une intégration plus approfondie avec Hotwire et des mises à jour pour Active Storage. [Source](https://guides.rubyonrails.org/7_0_release_notes.html)
 
 Migration vers Rails 7.x : De nombreux développeurs et entreprises ont migré vers Rails 7.x pour bénéficier des améliorations en matière de performance, de sécurité et de fonctionnalités modernes.
+[Source](https://hayford.dev/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-iii/)
 
-Focus sur la Performance et la Sécurité : Des mises à jour régulières ont été publiées pour répondre aux vulnérabilités et assurer des performances optimales.
+Focus sur la Performance et la Sécurité : Des mises à jour régulières ont été publiées pour répondre aux vulnérabilités et assurer des performances optimales. [Source](https://www.crunchydata.com/blog/postgres-goodies-in-ruby-on-rails-7-1)
 
-Intégration Technologique : Adoption croissante de GraphQL, Docker et des architectures serverless pour améliorer l'évolutivité et la flexibilité des applications Rails.
+Intégration Technologique : Adoption croissante de GraphQL, Docker et des architectures serverless pour améliorer l'évolutivité et la flexibilité des applications Rails (source Ruby Flow).
 
-Documentation et Outils : Mise à jour des guides Rails et des outils de développement, facilitant le développement et la maintenance des applications.
-<!-- Ceci est un commentaire en Markdown 
-Durant notre deuxième année nous avons du effectuer une veille sur le sujet de notre choix. Fortement intéréssés par Rails et l'engouement autour de cette technologie j'en ai fais mon sujet de veille. Vous trouverez ci-joint mon travail de veille effectué à l'aide de notion et de google alerts.  [Veille RoR (PDF)](/assets/VeilleROR.pdf)-->
+Documentation et Outils : Mise à jour des guides Rails et des outils de développement, facilitant le développement et la maintenance des applications. [Source](https://www.fastruby.io/blog/rails/upgrades/upgrade-rails-7-0-to-7-1.html)
