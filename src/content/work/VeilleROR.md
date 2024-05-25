@@ -1,6 +1,6 @@
 ---
 title: Veille Ruby On Rails
-publishDate: 2024-03-04 00:00:00
+publishDate: 2024-05-12 00:00:00
 img: /assets/RORlogo.png
 img_alt: Logo Ruby On Rails
 description: |

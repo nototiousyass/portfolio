@@ -1,6 +1,6 @@
 ---
 title: Mise en place de PRA et de PCA
-publishDate: 2019-10-02 00:00:00
+publishDate: 2024-05-12 00:00:00
 img: /assets/pra-pca-logo.png
 img_alt: Logo pra pca
 description: |

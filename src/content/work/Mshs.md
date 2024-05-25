@@ -1,6 +1,6 @@
 ---
 title: Stage de première année
-publishDate: 2020-03-04 00:00:00
+publishDate: 2024-05-12 00:00:00
 img: /assets/mshslogo.png
 img_alt: mshs logo
 description: |
@@ -17,6 +17,8 @@ J'ai effectué mon stage de première année de BTS au sein de la Maison des Sci
 Durant ce stage, j'ai eu à travailler avec le framework Quarto qui est un outil permmettant de codé facilement et de traiter beacoups de données(graphiques, tableau etc..). J'ai créer un Blog vitrine permettant de renvoyer des données présentent en ligne sur une base de donnée national nommée Nakala. Pour ce faire j'ai utilisé une API et des script python.
 
 [Carnet de bord du stage de première année (PDF)](/assets/Carnet_de_bord_Stage.pdf)
+[Cahier des charges MSHS(PDF)](/assets/Cahier_charges_mshs.pdf)
+
 
 
 

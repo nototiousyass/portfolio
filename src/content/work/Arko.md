@@ -1,6 +1,6 @@
 ---
 title: Stage de deuxième année
-publishDate: 2020-03-04 00:00:00
+publishDate: 2024-05-12 00:00:00
 img: /assets/Arkologo.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
@@ -13,14 +13,15 @@ tags:
   
 ---
 
-J'ai effectué mon stage de deuxième année de  BTS dans le bureau d'Étude Arko basé à Barcelone. Arko intervient dans des projets humanitaires pour l’UE et l’ONU dans différents pays du monde.
+J'ai effectué mon stage de deuxième année de BTS au sein du bureau d'études Arko, basé à Barcelone. Arko intervient dans des projets humanitaires pour l'UE et l'ONU dans différents pays du monde.
 
-Pendant ce stage, j'ai pu  travailler avec le framework Rails de Ruby que je n'avais jamais utilisé. J’ai créé un blog avec Rails et j’ai debugué une application qui était  en production. J’ai utilisé une API pour requéter des données. J’ai également modélisé et proposé le nouveau schéma de la base de données pour un de leurs projets.
+Pendant ce stage, j'ai eu l'occasion de travailler avec le framework Rails de Ruby, que je n'avais jamais utilisé auparavant. J'ai créé un blog avec Rails et j'ai débogué une application en production. J'ai utilisé une API pour interroger des données et j'ai également modélisé et proposé le nouveau schéma de la base de données pour l'un de leurs projets.
 
-Durant ce stage, les deux développeurs avec lesquels j’ai dû collaborer et moi-même, étions 100% en télétravail.
+Durant ce stage, les deux développeurs avec lesquels j'ai collaboré et moi-même étions entièrement en télétravail.
 
-Pour des raisons de confidentialité, je ne peux malheureusement pas partager les données et informations dont j’ai eu connaissance.
+Pour des raisons de confidentialité, je ne peux malheureusement pas partager les données et informations auxquelles j'ai eu accès.
 
+Cependant, je partage mon cahier des charges pour vous donner une idée du travail que j'ai pu effectuer: [Cahier des charges Arko (PDF)](/assets/Cahier_charges_Arko.pdf)
 
 
 
