@@ -26,7 +26,7 @@ Tout au long de cette période, j'ai suivi la newsletter Ruby Weekly, qui m'a no
 
 #### Suivi des Blogs 
 
-En plus de la newsletter, j'ai régulièrement consulté dees blogs  comme Ruby Flow, Ruby on Rails, Crunchy Data ou Hayford. Ces blogs sont des sources essentielles pour la communauté Ruby, fournissant des articles détaillés, des tutoriels, des annonces et des discussions sur les meilleures pratiques. Ils m'ont aidé à comprendre les implications des nouvelles versions et à explorer les différentes façons d'optimiser et d'améliorer les applications Ruby on Rails.
+En plus de la newsletter, j'ai régulièrement consulté des blogs  comme Ruby Flow, Ruby on Rails, Crunchy Data ou Hayford. Ces blogs sont des sources essentielles pour la communauté Ruby, fournissant des articles détaillés, des tutoriels, des annonces et des discussions sur les meilleures pratiques. Ils m'ont aidé à comprendre les implications des nouvelles versions et à explorer les différentes façons d'optimiser et d'améliorer les applications Ruby on Rails.
 
 #### Formation Continue avec Codecademy
 
