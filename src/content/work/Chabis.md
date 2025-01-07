@@ -15,3 +15,49 @@ Durant notre deuxième année de BTS SIO, nous avons été amenés à réaliser 
 Le client devait pouvoir gérer les naissances et les achats, les cheptels, les ventes des chèvres, l'édition des carnets d'agnelage, et suivre les petits de chaque animal.
 
 [Cahier des charges Chabis (PDF)](/assets/Cahier_charges_chabis.pdf)
+
+#### Historique des actions
+
+Voici une vue de l'historique des actions réalisées sur la plateforme :
+
+![Historique des actions dans l'application](/assets/Historiquechabis.png)
+
+---
+
+#### Informations sur les naissances
+
+Voici un exemple de visualisation des informations sur les naissances, permettant de suivre les détails des parents d'un chevreau :
+
+![Informations sur les naissances](/assets/infosnaissancechabis.png)
+
+---
+
+#### Liste des cheptels
+
+La plateforme offre une vue claire des différents cheptels gérés par l'utilisateur :
+
+![Liste des cheptels](/assets/Listecheptel.png)
+
+---
+
+#### Liste des chèvres
+
+Les chèvres sont répertoriées avec des détails spécifiques, facilitant leur suivi :
+
+![Liste des chèvres](/assets/Listechevre.png)
+
+---
+
+#### Ventes réalisées
+
+La plateforme permet aussi de suivre les ventes réalisées avec leurs détails :
+
+![Liste des ventes réalisées](/assets/Listevente.png)
+
+---
+
+#### Exemple détaillé des ventes
+
+Voici une autre vue détaillant les ventes, avec des informations supplémentaires :
+
+![Détail des ventes](/assets/Venteschabis.png)
