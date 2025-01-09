@@ -30,15 +30,14 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="Bonjour, je m'appelle Yassine Hasnaoui"
-					tagline="J'ai récemment obtenu mon BTS SIO avec l'option SLAM"
-					align="start"
-				>
-					<div class="roles">
-						
-						<Pill><Icon icon="graduation-cap" size="1.33em" /> Diplomé</Pill>
-					
-					</div>
+    				title="Bonjour, je m'appelle Yassine Hasnaoui"
+    				tagline="J'ai récemment obtenu mon BTS SIO avec l'option SLAM"
+   					align="start"
+>
+    			{/* Section affichant les rôles ou accomplissements, comme ici le statut de diplômé */}
+    			<div class="roles">
+        			<Pill><Icon icon="graduation-cap" size="1.33em" /> Diplomé</Pill>
+    			</div>
 				</Hero>
 
 				<img
